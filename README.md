@@ -16,7 +16,7 @@ This is the main file where I’ve tested and demonstrated the usage of the thre
 To run the code, follow these steps:
 
 Clone the Repository:
-git clone https://github.com/yourusername/promisified-functions-assignment.git
+git clone https://github.com/avadacodavra/Week2AsyncJS.git 
 
 Navigate to the Project Directory:
 cd promisified-functions-assignment
